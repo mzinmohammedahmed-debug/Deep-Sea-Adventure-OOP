@@ -24,7 +24,7 @@ Ce projet a été initié en groupe.
 * **Membres du groupe :** MZIN Mohammed Ahmed, BAPTISTE PYRYT, GASPARD TESTON, CARMEL AWANDE.
 * **Contribution spécifique de ce dépôt :**
     * Conception de l'architecture POO centrale (Ruine, Plateau).
-    * Développement des IA avancées (`bots_avances.py`).
+    * Développement de Bots avancées (`bots_avances.py`).
     * Rédaction du rapport en **LaTeX**.
     * **Conception intégrale de l'Interface Graphique (post-projet)** pour remplacer la vue console.
 
