@@ -36,7 +36,7 @@ Le dossier `/docs` contient :
 ## 🚀 Installation et Lancement
 1.  Cloner le dépôt :
     ```bash
-    git clone [https://github.com/TON-PSEUDO/Deep-Sea-Adventure.git](https://github.com/TON-PSEUDO/Deep-Sea-Adventure.git)
+    git clone [https://github.com/mzinmohammedahmed-debug/Deep-Sea-Adventure-OOP.git](https://github.com/mzinmohammedahmed-debug/Deep-Sea-Adventure-OOP.git)
     ```
 2.  Lancer le jeu :
     ```bash
